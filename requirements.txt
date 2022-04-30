@@ -1,0 +1,7 @@
+google-cloud-storage==1.38.0
+google-cloud-bigquery==2.20.0
+google-cloud-pubsub==2.5.0
+google-cloud-error-reporting==1.1.2
+pyyaml==5.4.1
+# Flask Framework
+# Flask==1.1.2
